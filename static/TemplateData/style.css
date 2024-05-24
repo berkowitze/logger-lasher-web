@@ -23,6 +23,9 @@ body {
 #unity-canvas {
   background: #231f20;
 }
+#unity-canvas:focus {
+  outline: none;
+}
 .unity-mobile #unity-canvas {
   width: 100%;
   height: 100%;
